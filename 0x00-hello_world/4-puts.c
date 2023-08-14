@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * main -  Entry point
+ * main - Entry point
  *
  * Description: A C program that prints with put function
  *
@@ -10,7 +10,7 @@
 
 int main(void)
 {
-	/* print a messege using puts */
-puts("\"Programming is like building a multilingual puzzle");
-return (0);
-}	
+	/* print a message using puts */
+	puts("\"Programming is like building a multilingual puzzle");
+	return (0);
+}
